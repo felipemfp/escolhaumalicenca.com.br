@@ -1,13 +1,14 @@
 ---
 layout: default
-permalink: no-license/
-title: No License
+permalink: nenhuma-licenca/
+title: Nenhuma Licença
 ---
 
-You're under no obligation to choose a license and it's your right not to include one with your code or project. But please note that opting out of open source licenses doesn't mean you're opting out of copyright law. 
+Você não tem nenhuma obrigação de escolher uma licença e é seu direito de não incluir uma com o seu código ou projeto. Mas, por favor, note que optar por licenças open source não significa que você está optando por alguma lei de direitos autorais.
 
-You'll have to check with your own legal counsel regarding your particular project, but generally speaking, the absence of a license means that default copyright laws apply. This means that you retain all rights to your source code and that nobody else may reproduce, distribute, or create derivative works from your work. This might not be what you intend.
+Você terá que verificar com o seu próprio conselho legal sobre o seu projeto, em particular, mas de um modo geral, a ausência de uma licença significa que as leis de direitos autorais padrão se aplicam. Isso significa que você mantém todos os direitos de seu código-fonte e que ninguém pode reproduzir, distribuir ou criar obras derivadas a partir do seu trabalho. Isto pode não ser o que você pretende.
 
-Even in the absence of a license file, if you publish your source code in a public repository on GitHub, you have accepted the [Terms of Service](https://help.github.com/articles/github-terms-of-service) which do allow other GitHub users some rights. Specifically, you allow others to view and fork your repository. 
+Mesmo na ausência de um arquivo de licença, se você publicar o código-fonte em um repositório público no GitHub, você automaticamente aceita os [Termos de Serviço](https://help.github.com/articles/github-terms-of-service) que dão a outros usuários do GitHub alguns direitos. Especificamente, você permite que outros possam ver e fazer fork de seu repositório.
 
-If you want to share your work with others, please consider choosing an open source license.
+Se você deseja compartilhar seu trabalho com os outros, por favor, considere a escolha de uma licença de código aberto (open source).
+

@@ -1,9 +1,9 @@
 ---
 layout: license
 title: BSD (3-Clause) License
-permalink: /licenses/bsd-3-clause/
+permalink: /licenca/bsd-3-clause/
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders. Replace {organization} with the organization, if any, that sponsors this work.
+how: Crie um arquivo de texto (tipicamente chamado LICENSE ou LICENSE.txt) na raiz de seu código-fonte e copie o texto da licença no arquivo. Substitua [year] com o ano atual e [fullname] com o nome (ou nomes) dos detentores dos direitos autorais. Substitua {organization} com a organização, se houver, que patrocina o trabalho.
 
 source: http://opensource.org/licenses/BSD-3-Clause
 

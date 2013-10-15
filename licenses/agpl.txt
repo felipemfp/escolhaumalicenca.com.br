@@ -1,12 +1,12 @@
 ---
 title: Affero GPL
 layout: license
-permalink: /licenses/agpl/
+permalink: /licencas/agpl/
 source: http://www.gnu.org/licenses/agpl-3.0.txt
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: A Free Software Foundation recomenda tomar o passo adicional de acrescentar um aviso clichê ao topo de cada arquivo. O modelo pode ser encontrado no final da licença.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crie um arquivo de texto (tipicamente chamado LICENSE ou LICENSE.txt) na raiz de seu código-fonte e copie o texto da licença no arquivo.
 
 required:
   - include-copyright

@@ -1,15 +1,15 @@
 ---
 title: Apache v2 License
 layout: license
-permalink: /licenses/apache/
+permalink: /licencas/apache/
 
 featured: true
 
-description: A permissive license that also provides an express grant of patent rights from contributors to users.
+description: Uma licença permissiva que também provê uma concessão expressa de direitos de patente de contribuintes para os usuários.
 
-note: The Apache Foundation recommends taking the additional step of adding a boilerplate notice to the header of each source file. You can find the notice at the very end of the license in the appendix.
+note: A Apache Foundation recomenda o passo adicional de acrescentar um aviso clichê ao cabeçalho de cada arquivo-fonte. Você pode encontrar o aviso no final da licença no apêndice.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crie um arquivo de texto (tipicamente chamado LICENSE ou LICENSE.txt) na raiz de seu código-fonte e copie o texto da licença no arquivo.
 
 source: http://www.apache.org/licenses/LICENSE-2.0.html
 
