@@ -1,61 +1,79 @@
-# Choose a License Web Site
+# Site Escolha Uma Licença
 
-Like a Choose Your Own Adventure site, but only much less interesting.
+Como o site "Choose Your Own Adventure", mas muito menos interessante.
 
 # Intro
 
-A lot of repositories on GitHub.com don't have a license. GitHub provides
-a license chooser, but if you don't know anything about licenses, how are you 
-supposed to make an informed decision.
+Um grande número de repositórios de GitHub.com não têm uma licença. O GitHub 
+fornece um seletor de licença, mas se você não sabe nada sobre licenças, como 
+seria possível você tomar uma decisão?
 
-ChooseALicense.com is designed to help people make an informed decision about 
-licenses. 
+escolhaumalicenca.com.br serve para ajudar pessoas a tomar uma decisão 
+consciente sobre licenças.
 
-# Immediate Goals
+# Objetivos imediatos
 
-* Politics Free - Let's just not get into it.
-* Well designed, but that goes without saying.
-* The homepage should have just enough to help 99% of folks make a decision.
-* For the 1%, the site will contain a list of licenses common for specific 
-communities and situations.
-* Not comprehensive. Seems like an odd goal, but there are a bajillion 
-(I counted) licenses out there. We're going to have to filter that down to a 
-small list of those that matter.
+* "Politics Free" - Simplesmente não vamos chegar nisso.
+* Bem projeto, mas isso vai ser dizer.
+* A página inicial deve ter apenas o suficiente para ajudar 99% das pessoas a 
+tomar uma decisão.
+* Para o 1% restante, o site irá conter uma lista de licenças comuns para 
+comunidades e situações específicas.
+* Não compreensiva. Soa como um objetivo estranho, mas há um zilhão (nós contamos) de licenças por aí. Foi preciso filtrar até chegar numa pequena lista com aquelas que realmente importam.
 
-# Run It On Your Machine
+# Rodando na sua máquina
 
-1. `git clone https://github.com/github/choosealicense.com`
-2. `cd choosealicense.com`
+1. `git clone https://github.com/webfatorial/escolhaumalicenca.com.br`
+2. `cd escolhaumalicenca.com.br`
 3. `script/bootstrap`
 4. `script/server`
-5. Open [localhost:4000](http://localhost:4000) in your favorite browser
+5. Abra [localhost:4000](http://localhost:4000) no seu browser favorito
 
-# Adding a license
+# Adicionando uma licença
 
-Licenses sit in the `/licenses` folder as markdown (`.md`) files. Each license has YAML front matter describing the license's properties. The body of the markdown file should be the text of the license. The available metadata fields are:
+As licenças estão no diretório `/licenses` em arquivos markdown (`.md`). Cada 
+licença tem uma parte inicial em YAML descrevendo as propriedades da licença. 
+O corpo do arquivo markdown deve ser o texto da licença. Os campos de metadados 
+disponíveis são:
 
-* `title` - The name of the license
-* `layout` - This should be `license`
-* `permalink` - The absolute URL to the license, beginning with `/licenses/`
-* `source` - URL to the license source text
-* `note` - The note field in the sidebar (optional)
-* `how` - How to use the license, also in the sidebar
-* `required`, `permitted`, `forbidden` - bulleted list of rules applicable to the license (see below)
-* `filename` - The filename to be created on GitHub.com when a repository is initialized with this license.
+* `title` - O nome da licença
+* `layout` - Deve ser `license`
+* `permalink` - URL absoluto da licença, começando com `/licenses/`
+* `source` - URL para o texto-fonte da licença
+* `note` - O campo de nota na barra lateral (opcional)
+* `how` - Como usar a licença, também na barra lateral
+* `required`, `permitted`, `forbidden` - lista de regras que se aplicam à 
+licença (veja abaixo)
+* `filename` - O nome do arquivo a ser criado no GitHub.com quando um 
+repositório é iniciado com essa licença.
 
-The licenses on choosealicense.com are regularly imported to GitHub.com to be used as the list of licenses available when creating a repository. When we create a repository, we will replace certain strings in the license with variables from the repository. These can be used to create accurate copyright notices. The available variables are:
+As licenças no escolhaumalicenca.com.br são regularmente importadas no GitHub.com 
+para serem usadas como a lista de licenças disponíveis quando um repo é criado. 
+Quando criamos um repositório, trocamos certos textos na licença com variáveis 
+do repositório. Estas podem ser usadas para criar avisos precisos de direitos 
+autorais. As variáveis são:
 
-* `[fullname]` - The full name or username of the repository owner
-* `[login]` - The repository owner's username
-* `[email]` - The repository owner's primary email address
-* `[project]` - The repository name
-* `[description]` - The description of the repository
-* `[year]` - The current year
+* `[fullname]` - Nome completo ou username do proprietário do repositório
+* `[login]` - Username do proprietário do repositório
+* `[email]` - Email principal do proprietário do repositório
+* `[project]` - Nome do repositório
+* `[description]` - Descrição do repositório
+* `[year]` - Ano atual
 
-# Rules 
+# Regras 
 
-* Rules (the license's properties) are stored as a bulleted list within the licenses YAML front matter. A full list of rules can be found in the repository's `_config.yml` file. Each rule has a name e.g., `include-copyright`, a human-readable label, e.g., `Copyright inclusion`, and a description `Include the original copyright with the code`. To add a new rule, simply add it to config.yml and reference it in the appropriate license. 
+* Regras (as propriedades da licença) são armazenadas como uma lista dentro do 
+trecho YAML das licenças. Uma lista completas de regras pode ser encontrada no 
+arquivo `_config.yml` do repositório. Cada regra tem um nome, e.g., 
+`include-copyright`, um rótulo legível, e.g., `Copyright inclusion`, e uma 
+descrição `Include the original copyright with the code`. Para adicionar uma 
+nova regra, simplesmente a adicione em `config.yml` e a referencie na licença 
+apropriada.
 
-# License
+# Licença
 
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php). 
+O conteúdo desse projeto, em si, é licenciado sob 
+[Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), 
+e o código fonte subjacente usado para formatar e exibir esse conteúdo sob a 
+[licença MIT](http://opensource.org/licenses/mit-license.php). 
+
