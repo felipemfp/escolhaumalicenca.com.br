@@ -20,7 +20,11 @@
 
       {% assign types = "required|permitted|forbidden" | split: "|" %}
       {% for type in types %}
-        <h3>{{ type | capitalize }}</h3>
+        <h3>
+          {% if type == "required" %} Exigido {% endif %}                       
+          {% if type == "permitted" %} Permitido {% endif %}                    
+          {% if type == "forbidden" %} Proibido {% endif %}
+        </h3>
         <ul class="license-{{ type }}">
           {% for req in page[type] %}
             <li class="{{ req }}">{{ site.rules[type][req].label }}</li>

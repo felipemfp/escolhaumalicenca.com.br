@@ -21,7 +21,11 @@ class: license-types
       {% assign types = "required|permitted|forbidden" | split: "|" %}
       {% for type in types %}
       <tr>
-        <td class="label">{{ type | capitalize }}</td>
+        <td class="label">
+          {% if type == "required" %} Exigido {% endif %}
+          {% if type == "permitted" %} Permitido {% endif %}
+          {% if type == "forbidden" %} Proibido {% endif %}
+        </td>
         <td>
           <ul class="license-{{ type }}">
             {% for req in page[type] %}
@@ -56,7 +60,11 @@ class: license-types
       {% assign types = "required|permitted|forbidden" | split: "|" %}
       {% for type in types %}
       <tr>
-        <td class="label">{{ type | capitalize }}</td>
+        <td class="label">
+          {% if type == "required" %} Exigido {% endif %}
+          {% if type == "permitted" %} Permitido {% endif %}
+          {% if type == "forbidden" %} Proibido {% endif %}
+        </td>
         <td>
           <ul class="license-{{ type }}">
             {% for req in page[type] %}
