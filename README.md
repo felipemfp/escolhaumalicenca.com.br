@@ -1,6 +1,6 @@
 # Site Escolha Uma Licença
 
-Como o site "Choose Your Own Adventure", mas muito menos interessante.
+Tradução do projeto original [choosealicense.com](http://choosealicense.com/).
 
 # Intro
 
@@ -14,7 +14,7 @@ consciente sobre licenças.
 # Objetivos imediatos
 
 * "Politics Free" - Simplesmente não vamos chegar nisso.
-* Bem projeto, mas isso vai ser dizer.
+* Bem projetado, mas isso vai sem dizer.
 * A página inicial deve ter apenas o suficiente para ajudar 99% das pessoas a 
 tomar uma decisão.
 * Para o 1% restante, o site irá conter uma lista de licenças comuns para 
@@ -47,11 +47,12 @@ licença (veja abaixo)
 * `filename` - O nome do arquivo a ser criado no GitHub.com quando um 
 repositório é iniciado com essa licença.
 
-As licenças no escolhaumalicenca.com.br são regularmente importadas no GitHub.com 
-para serem usadas como a lista de licenças disponíveis quando um repo é criado. 
-Quando criamos um repositório, trocamos certos textos na licença com variáveis 
-do repositório. Estas podem ser usadas para criar avisos precisos de direitos 
-autorais. As variáveis são:
+As licenças no choosealicense.com (que é o site original, traduzido e 
+disponibilizado no escolhaumalicenca.com.br) são regularmente importadas no 
+GitHub.com para serem usadas como a lista de licenças disponíveis quando um repo 
+é criado. Quando criamos um repositório, trocamos certos textos na licença com 
+variáveis do repositório. Estas podem ser usadas para criar avisos precisos de 
+direitos autorais. As variáveis são:
 
 * `[fullname]` - Nome completo ou username do proprietário do repositório
 * `[login]` - Username do proprietário do repositório
