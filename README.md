@@ -2,7 +2,7 @@
 
 Tradução do projeto original [choosealicense.com](http://choosealicense.com/).
 
-# Intro
+# Introdução
 
 Um grande número de repositórios de GitHub.com não têm uma licença. O GitHub 
 fornece um seletor de licença, mas se você não sabe nada sobre licenças, como 

@@ -1,7 +1,7 @@
 ---
 title: Sobre
 layout: default
-permalink: /about/
+permalink: /sobre/
 title: Sobre o Escolha Uma Licença
 ---
 
@@ -13,7 +13,7 @@ Se você já sabe o que está fazendo e tem uma licença que prefere usar, ótim
 
 Esse site não é um diretório abrangente de licenças open source.
 
-Achamos que há opções demais, o que aumenta a confusão. Na página inicial, quebramos isso em apenas 3 licenças. A grande maioria dos projetos ficará bem ao escolher entre uma dessas 3. Para o caso de você ter necessidades específicas não contempladas por essas 3 licenças, também destacamos [algumas outras licenças a considerar](/licenses/). Recursos adicionais:
+Achamos que há opções demais, o que aumenta a confusão. Na página inicial, quebramos isso em apenas 3 licenças. A grande maioria dos projetos ficará bem ao escolher entre uma dessas 3. Para o caso de você ter necessidades específicas não contempladas por essas 3 licenças, também destacamos [algumas outras licenças a considerar](/licencas/). Recursos adicionais:
 
 * [Open Source Initiative](http://opensource.org/licenses/) - lista completa de licenças open source
 * [Comparação de licenças de software livre e de código aberto](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) na Wikipedia (inglês)
@@ -27,4 +27,4 @@ EscolhaUmaLicenca.com.br (que é a tradução do ChooseALicense.com) não soment
 
 ## Ressalva
 
-Não somos advogados. Bem, a maioria de nós. Não é objetivo desse site prover aconselhamento jurídico. O objetivo desse site é prover um ponto de partida para ajudá-lo a fazer uma escolha consciente, fornecendo informações sobre as licenças open source mais populares. Se você tem quaisquer questões sobre qual é a licença adequada para seu código ou qualquer outra questão legal relacionada a isso, é melhor se consultar com um profissional.
+Não somos advogados. Não é objetivo desse site prover aconselhamento jurídico. O objetivo desse site é prover um ponto de partida para ajudá-lo a fazer uma escolha consciente, fornecendo informações sobre as licenças open source mais populares. Se você tem quaisquer questões sobre qual é a licença adequada para seu código ou qualquer outra questão legal relacionada a isso, é melhor se consultar com um profissional.
