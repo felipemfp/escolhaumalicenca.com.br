@@ -5,7 +5,7 @@ permalink: /licencas/apache/
 
 featured: true
 
-description: Uma licença permissiva que também provê uma concessão expressa de direitos de patente de contribuintes para os usuários.
+description: Licença permissiva que também provê uma concessão expressa de direitos de patente de contribuintes para os usuários.
 
 note: A Apache Foundation recomenda o passo adicional de acrescentar um aviso clichê ao cabeçalho de cada arquivo-fonte. Você pode encontrar o aviso no final da licença no apêndice.
 

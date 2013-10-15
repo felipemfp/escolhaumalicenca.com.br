@@ -1,13 +1,13 @@
 ---
 layout: license
 title: MIT License
-permalink: /licenses/mit/
+permalink: /licencas/mit/
 
 featured: true
 
-description:  A permissive license that is short and to the point. It lets people do anything with your code with proper attribution and without warranty.
+description: Licença permissiva que é curta e vai direto ao ponto. Ela permite que as pessoas façam qualquer coisa com seu código com atribuições próprias e sem garantias.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Crie um arquivo de texto (tipicamente chamado LICENSE ou LICENSE.txt) na raiz de seu código-fonte e copie o texto da licença no arquivo. Substitua [year] pelo ano atual e [fullname] com o nome (ou nomes) dos detentores dos direitos autorais.
 
 required:
   - include-copyright

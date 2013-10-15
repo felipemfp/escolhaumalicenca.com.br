@@ -1,13 +1,13 @@
 ---
 layout: license
 title: LGPL v3
-permalink: /licenses/lgpl-v3/
+permalink: /licencas/lgpl-v3/
 
-description: Version 3 of the LGPL is an additional set of permissions to the <a href="/licenses/gpl-v3">GPL v3 license</a> that requires that derived works be licensed under the same license, but works that only link to it do not fall under this restriction.
+description: A versão 3 da LGPL é um conjunto adicional de permissões para a <a href="/licencas/gpl-v3">Licença GPL v3</a>, que exige que trabalhos derivados sejam licenciados sob a mesma licença, mas só fazer um link para ela não faz com que se enquadrem nesta restrição.
 
-how: This license is an additional set of permissions to the <a href="/licenses/gpl-v3">GPL v3</a> license. Follow the instructions to apply the GPL v3 license. Then either paste this text to the bottom of that file OR add a separate file (typically named COPYING.lesser or LICENSE.lesser) in the root of your source code and copy the text.
+how: Essa licença é um conjunto adicional de permissões para a <a href="/licencas/gpl-v3">Licença GPL v3</a>. Siga as instruções para aplicar licença GPL v3. Em seguida, cole este texto até a parte inferior do arquivo ou adicione um arquivo separado (normalmente denominado COPYING.lesser ou LICENSE.lesser) na raiz do seu código-fonte e copie o texto.
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: A Free Software Foundation recomenda tomar o passo adicional de acrescentar um aviso clichê ao topo de cada arquivo. O modelo pode ser encontrado no final da licença.
 
 required:
   - include-copyright

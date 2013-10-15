@@ -1,13 +1,13 @@
 ---
 layout: license
-permalink: /licenses/public-domain/
+permalink: /licencas/dominio-publico/
 class: license-types
-title: Public Domain (Unlicense)
+title: Domínio Público (Unlicense)
 filename: UNLICENSE
 
-description: Because copyright is automatic in most countries, <a href="http://unlicense.org">the Unlicense</a> is a template to waive copyright interest in software you've written and dedicate it to the public domain. Use the Unlicense to opt out of copyright entirely. It also includes the no-warranty statement from the MIT/X11 license.
+description: Devido ao fato de direitos autorais serem automáticos na maioria dos países, <a href="http://unlicense.org">Unlicense</a> é um modelo para renunciar direitos autorais sobre o software que você escreveu e dedicá-lo ao domínio público. Use Unlicense para abrir mão inteiramente de direitos autorais (copyright). Ela também inclui a declaração de ausência de garantia da licença MIT/X11.
 
-how: Create a text file (typically named UNLICENSE or UNLICENSE.txt) in the root of your source code and copy the text of the license disclaimer into the file.
+how: Crie um arquivo de texto (tipicamente chamado UNLICENSE ou UNLICENSE.txt) na raiz de seu código-fonte e copie o texto da licença no arquivo.
 
 required: 
 
