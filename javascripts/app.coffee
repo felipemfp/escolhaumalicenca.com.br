@@ -28,9 +28,9 @@ class Choosealicense
 
   # Annotation categories as defined in `_config.yml`
   categories:
-    required: "Required"
-    permitted: "Permitted"
-    forbidden: "Forbidden"
+    required: "Exigido"
+    permitted: "Permitido"
+    forbidden: "Proibido"
 
   # fire on document.ready
   constructor: ->
@@ -90,7 +90,7 @@ class Choosealicense
 
   # Post-copy user feedback callback
   clipboardComplete: (client, args) ->
-    @innerText = "Copied!"
+    @innerText = "Copiado!"
 
 $ ->
   new Choosealicense()

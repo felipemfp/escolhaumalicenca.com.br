@@ -32,9 +32,9 @@
     };
 
     Choosealicense.prototype.categories = {
-      required: "Required",
-      permitted: "Permitted",
-      forbidden: "Forbidden"
+      required: "Exigido",
+      permitted: "Permitido",
+      forbidden: "Proibido"
     };
 
     function Choosealicense() {
@@ -103,7 +103,7 @@
     };
 
     Choosealicense.prototype.clipboardComplete = function(client, args) {
-      return this.innerText = "Copied!";
+      return this.innerText = "Copiado!";
     };
 
     return Choosealicense;

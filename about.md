@@ -1,28 +1,30 @@
 ---
-title: About
+title: Sobre
 layout: default
 permalink: /about/
-title: What&#8217;s this about?
+title: Sobre o Escolha Uma Licença
 ---
 
-GitHub wants to help developers choose a license for their source code.
+GitHub quer ajudar os desenvolvedores a escolherem uma licença para seu código-fonte. A [webfatorial](http://webfatorial.com/) também: este site é a tradução do [ChooseALicence.com](http://choosealicense.com/).
 
-If you already know what you&#8217;re doing and have a license you prefer to use, that&#8217;s great! We&#8217;re not here to change your mind. But if you are bewildered by the large number of OSS license choices, maybe we can help.
+Se você já sabe o que está fazendo e tem uma licença que prefere usar, ótimo! Não estamos aqui para mudar sua cabeça. Mas se você está desnorteado devido ao grande número de opções para licenças open source, talvez possamos ajudá-lo.
 
-## Not comprehensive
+## Não abrangente
 
-This site is not a comprehensive directory of open source licenses.  We think there are too many options, which adds to the confusion. On the homepage, we break it down into just three licenses. The vast majority of projects will likely be fine choosing from one of these three. Just in case you have specific needs not covered by those three, we also highlight a [few other licenses to consider](/licenses/).  Additional resources:
+Esse site não é um diretório abrangente de licenças open source.
 
-* [Open Source Initiative](http://opensource.org/licenses/) - comprehensive list of open source licenses
-* [Comparison of free and open-source software licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) on Wikipedia
-* [License differentiator](http://www.oss-watch.ac.uk/apps/licdiff/) from [OSS Watch](http://www.oss-watch.ac.uk/)
+Achamos que há opções demais, o que aumenta a confusão. Na página inicial, quebramos isso em apenas 3 licenças. A grande maioria dos projetos ficará bem ao escolher entre uma dessas 3. Para o caso de você ter necessidades específicas não contempladas por essas 3 licenças, também destacamos [algumas outras licenças a considerar](/licenses/). Recursos adicionais:
+
+* [Open Source Initiative](http://opensource.org/licenses/) - lista completa de licenças open source
+* [Comparação de licenças de software livre e de código aberto](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) na Wikipedia (inglês)
+* [License differentiator](http://www.oss-watch.ac.uk/apps/licdiff/) do [OSS Watch](http://www.oss-watch.ac.uk/)
 * [TLDRLegal](http://www.tldrlegal.com/)
 {: .bullets}
 
-## Help us improve it
+## Ajude a melhorar o site
 
-Choosealicense.com isn&#8217;t just about open source, the site itself is open source as well. See something you think could be done better? Feel free to [fork the project](https://github.com/github/choosealicense.com) on GitHub and submit a pull request. We'd welcome your improvements.
+EscolhaUmaLicenca.com.br (que é a tradução do ChooseALicense.com) não somente trata de open source; o site, em si, também é open source! Vê alguma coisa que você pensa que poderia ser melhor e/ou mais bem feito? Sinta-se livre para [fazer um fork do projeto](https://github.com/webfatorial/escolhaumalicenca.com.br) no GitHub e enviar seus _pull request_. Estamos esperando!  ;-)
 
-## Disclaimer
+## Ressalva
 
-We are not lawyers. Well most of us anyways. It is not the goal of this site to provide legal advice. The goal of this site is to provide a starting point to help you make an informed choice by providing information on popular open source licenses. If you have any questions regarding the right license for your code or any other legal issues relating to it, it&#8217;s always best to consult with a professional.
+Não somos advogados. Bem, a maioria de nós. Não é objetivo desse site prover aconselhamento jurídico. O objetivo desse site é prover um ponto de partida para ajudá-lo a fazer uma escolha consciente, fornecendo informações sobre as licenças open source mais populares. Se você tem quaisquer questões sobre qual é a licença adequada para seu código ou qualquer outra questão legal relacionada a isso, é melhor se consultar com um profissional.
