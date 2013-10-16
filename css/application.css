@@ -467,13 +467,12 @@ th.name {
 
 @media screen and (max-width: 968px) {
 
-
     /* General
      * ========================================================================== */
 
     .container {
-        margin: 4.25em auto;
-        width: 66% /* ~ 940px */;
+        margin: 1em auto;
+        width: 88%;
     }
 
     .site-footer nav {
