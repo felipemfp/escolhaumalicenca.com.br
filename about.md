@@ -23,7 +23,7 @@ Achamos que há opções demais, o que aumenta a confusão. Na página inicial, 
 
 ## Ajude a melhorar o site
 
-EscolhaUmaLicenca.com.br (que é a tradução do ChooseALicense.com) não somente trata de open source; o site, em si, também é open source! Vê alguma coisa que você pensa que poderia ser melhor e/ou mais bem feito? Sinta-se livre para [fazer um fork do projeto](https://github.com/webfatorial/escolhaumalicenca.com.br) no GitHub e enviar seus _pull request_. Estamos esperando!  ;-)
+EscolhaUmaLicenca.com.br (que é a tradução do ChooseALicense.com) não somente trata de open source; o site, em si, também é open source! Vê alguma coisa que você pensa que poderia ser melhor e/ou mais bem feito? Sinta-se livre para [fazer um fork do projeto](https://github.com/webfatorial/escolhaumalicenca.com.br) no GitHub e enviar seus _pull requests_.
 
 ## Ressalva
 

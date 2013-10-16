@@ -452,3 +452,94 @@ strong {
 }
 
 #with-♥ { float: right; clear: right;}
+
+/* ==========================================================================
+ * webfatorial touch
+ * ========================================================================== */
+
+th.name {
+    vertical-align: text-top;
+}
+
+.license-rules li {
+    margin: .5em;
+}
+
+@media screen and (max-width: 968px) {
+
+
+    /* General
+     * ========================================================================== */
+
+    .container {
+        margin: 4.25em auto;
+        width: 66% /* ~ 940px */;
+    }
+
+    .site-footer nav {
+        float: left; 
+    }
+
+        .site-footer nav a {
+            margin: 0 2em 1.5em 0;
+        }
+
+    #with-♥  {
+        float: left;
+    }
+
+    /* Home
+     * ========================================================================== */
+    
+    .home h1 {
+        font-size: 3em;
+        margin-bottom: 2em;
+    }
+
+    .home h2 {
+        line-height: 1.5;
+    }
+
+        .home h2 span {
+            font-size: 1em;
+            position: static;
+        }
+
+    .triptych {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+        .triptych li {
+            float: none;
+            margin: 0 auto 4em auto;
+            width: auto;
+        }
+
+            .triptych li:last-child {
+                margin-bottom: 0;
+            }
+
+
+    /* Licenses
+     * ========================================================================== */
+    .license-body {
+        width: 100%;
+    }
+
+        /* http://stackoverflow.com/a/1634298/922143 */
+        .license-body pre {
+            white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
+            white-space: -pre-wrap; /* Opera */
+            white-space: -o-pre-wrap; /* Opera */
+            white-space: pre-wrap; /* CSS3 - Text module (Candidate Recommendation) http://www.w3.org/TR/css3-text/#white-space */
+            word-wrap: break-word; /* IE 5.5+ */
+        }
+
+    .sidebar {
+        margin: 7em 0 -3em 0;
+        float: left;
+        width: 100%;
+    }
+
+}
